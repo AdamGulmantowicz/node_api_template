@@ -1,5 +1,5 @@
 {
-  "name": "golderfin-server",
+  "name": "node_api_template",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
